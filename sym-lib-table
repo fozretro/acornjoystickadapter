@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "HCF4512BE")(type "KiCad")(uri "${KIPRJMOD}/HCF4512BE.kicad_sym")(options "")(descr ""))
+  (lib (name "MC14512BDR2G")(type "KiCad")(uri "${KIPRJMOD}/MC14512BDR2G.kicad_sym")(options "")(descr ""))
+)
